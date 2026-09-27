@@ -43,6 +43,8 @@ The combination of margin expansion, strong cash generation, and de-leveraging p
 - **Trend Line Chart:** A multi-line chart showing Gross Margin %, Net Margin %, and Revenue Growth YoY % over time, filtered to only these three metrics to keep the scale readable (excluding metrics with very different units, like Free Cash Flow in millions).
 - **Bar Charts:** Two separate bar charts for Free Cash Flow and Diluted EPS, kept on their own visuals since their scales differ too much from the percentage-based metrics to share a chart.
 - Applied visual-level filters (`Filters on this visual`) throughout, rather than page-level filters, so each visual only shows the metrics relevant to it.
+![Netflix Financial Dashboard](Dashboard.png)
+
 
 ## Key Findings
 
