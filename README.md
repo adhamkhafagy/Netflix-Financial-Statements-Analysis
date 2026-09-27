@@ -77,7 +77,9 @@ netflix-financial-analysis/
 │   ├── cash_flow.csv
 │   └── financial_ratios_summary.csv
 ├── Netflix_Financial_Dashboard.pbix  # Power BI dashboard file
-└── README.md
+├── README.md
+├── LISENCE
+├── requirments.txt
 ```
 
 ## Author
